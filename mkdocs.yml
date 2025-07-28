@@ -11,6 +11,7 @@ theme:
     - navigation.footer
     - navigation.tracking
     - toc.follow
+  favicon: assets/XobxVnsu.png
 plugins:   
   - search
   - meta
