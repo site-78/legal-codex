@@ -1,5 +1,5 @@
-site_name: ACF-Gamma Legal Codex
-site_url: https://acf-gamma.github.io/
+site_name: Site-78 Legal Codex
+site_url: https://site-78.github.io/
 theme:
   name: material
   palette:
@@ -11,7 +11,7 @@ theme:
     - navigation.footer
     - navigation.tracking
     - toc.follow
-  favicon: assets/XobxVnsu.png
+  favicon: assets/SCPF_Logo.png
 plugins:   
   - search
   - meta
@@ -28,7 +28,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/sPmWfcJa3n
-copyright: Copyright &copy; - ACF-Gamma 2024-2025
+      link: https://discord.gg/
+copyright: Copyright &copy; - Site-78 2025
 extra_css:
   - assets/stylesheets/extra.css

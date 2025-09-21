@@ -31,10 +31,10 @@ B. Foundation Personnel are limited to membership of only:
 
 | Civil | Combative | Miscellaneous |
 |-------|-----------|---------------|
-| Scientific Department | Security Corps | Administrative Department |
-| Medical Department | Mobile Task Forces | Internal Security Bureau |
-| Engineering & Maintenance | | Acting Department |
-| Internal Justice Bureau | | | 
+| Scientific Department | Security Department | Administrative Department |
+| Medical Department | Mobile Task Forces | Auditing Committee |
+| Department of External Affairs | | |
+| Internal Tribunal Department | | | 
 
 ---
 
@@ -42,12 +42,10 @@ B. Foundation Personnel are limited to membership of only:
 
 A. Enforcement bodies refer to Foundation bodies responsible for upholding the laws of the Foundation. This section outlines the enforcement bodies, their duties, and their powers.
 
-| **^^Internal Justice Bureau^^** | **^^Internal Security Bureau^^** | **^^Moderation Team^^** |
-|-------------------------|--------------------------|-----------------|
-| A. The Internal Justice Bureau is the primary law enforcement, preventing violations of the Legal Codex, apprehension of violators, and prosecution if required. | A. The Internal Security Bureau is a law enforcement body, primarily engaging in investigations or prosecution of High Crimes. | A. The Moderation Team is the a law enforcement body solely responsible for enforcement of in-game and Discord rules. 
-| B. The Internal Justice Bureau may amend certain parts of the Legal Codex. | B. The Internal Security Bureau is the sole body responsible for anti-corruption monitoring. | B. The Moderation Team may not prosecute violations under the Legal Codex or any other applicable law unless otherwise stated.
-| C. They may not amend Title I, Title II, Title IV Article II, and Title V. | C. The Internal Security Bureau may only prosecute under High Crimes. | 
-| | D. The Internal Justice Bureau may request investigations to be performed by the Internal Security Bureau. | 
+| **^^Internal Tribunal Department^^** | **^^Community Moderation Team^^** |
+|--------------------------------------|-----------==========--------------|
+| A. The Internal Tribunal Department shall have the sole responsibility of enforcement of the Legal Codex. | A. The Community Moderation Team shall be solely responsible for enforcement of in-game and/or Discord rules. |
+| B. The Internal Tribunal Department may modify the Legal Codex, aside from the following parts: <br> * Title I. <br> * Title II. | |
 
 ---
 
@@ -64,10 +62,10 @@ B. All combative entities may issue reasonable orders to other personnel, which 
 
 C. Combative entities may use force to uphold orders of their superiors and combative duties, as specified by law or internal regulations.
 
-| **^^Military Police^^** | **^^Security Corps^^** | **^^Security Operations Unit^^** |
+| **^^Military Police^^** | **^^Security Department^^** | **^^Security Operations Unit^^** |
 |-------------------------|------------------------|----------------------------------|
-| A. The Military Police has complete authority over matters involving law enforcement upon combatives. | A. Security Corps command has complete authority over the Class-D Containment Zone during standard protocol; | A. The Security Operations Unit has complete jurisdiction over the Class-D Containment Zone during instability of the CDCZ. |
-| B. If no Military Police, are present authority shall cascade upon dictated by applicable law. | B. If no Security Corps, are present authority shall cascade upon dictated by applicable law. | B. The Security Operations Unit shall have jurisdiction over hostage situations which involve personnel of Security Level 3 or lower. |
+| A. The Military Police has complete authority over matters involving law enforcement upon combatives. | A. Security Department command has complete authority over the Class-D Containment Zone during standard protocol; | A. The Security Operations Unit has complete jurisdiction over the Class-D Containment Zone during instability of the CDCZ. |
+| B. If no Military Police, are present authority shall cascade upon dictated by applicable law. | B. If no Security Department, are present authority shall cascade upon dictated by applicable law. | B. The Security Operations Unit shall have jurisdiction over hostage situations which involve personnel of Security Level 3 or lower. |
 | | | C. If no Security Operations Unit, are present authority shall cascade upon dictated by applicable law. |
 
 
