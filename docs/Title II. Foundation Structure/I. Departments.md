@@ -45,7 +45,7 @@ A. Enforcement bodies refer to Foundation bodies responsible for upholding the l
 | **Internal Tribunal Department** | **Community Moderation Team** |
 |--------------------------------------|-----------------------------------|
 | A. The Internal Tribunal Department shall have the sole responsibility of enforcement of the Legal Codex. | A. The Community Moderation Team shall be solely responsible for enforcement of in-game and/or Discord rules. |
-| B. The Internal Tribunal Department may modify the Legal Codex, aside from the following parts: <br> * Title I. <br> * Title II. | |
+| B. The Internal Tribunal Department may modify the Legal Codex, aside from the following parts: <br> • Title I. <br> • Title II. | |
 
 ---
 
