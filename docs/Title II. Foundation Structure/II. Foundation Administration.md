@@ -6,19 +6,19 @@ title: II. Foundation Administration
 
 A. This article outlines the Foundation's administration structure, responsibilities, and powers of each rank within the administration.
 
-B. The ACF-Gamma administration comprises of (in order of hierarchy) The Administrator & Vice Administrator, O5 Command, the Facility Director, Facility Administration, department command.
+B. The ACF-Gamma administration comprises of (in order of hierarchy) The Administrator & Evil Administrator, O5 Council, the Site Director, department command.
 
 ---
 
-# §2. The Administrator & Vice Administrator 
+# §2. The Administrator & Evil Administrator 
 
-A. The Administrator and Vice Administrator have absolute control over all matters relating to lore, development, capital, or as otherwise deemed by relevant regulations.
+A. The Administrator and Evil Administrator have absolute control over all matters relating to lore, development, capital, or as otherwise deemed by relevant regulations.
 
-B. The Administrator and Vice Administrator are considered the owners of ACF-Gamma.
+B. The Administrator and Evil Administrator are considered the owners of Site-78.
 
-C. The Administrator and Vice Administrator may alter any Foundation legislation, policy, executive order, or any other regulation.
+C. The Administrator and Evil Administrator may alter any Foundation legislation, policy, executive order, or any other regulation.
 
-D. The Administrator and Vice Administrator may only increase, decrease, or void punishments with a valid reason.
+D. The Administrator and Evil Administrator may only increase, decrease, or void punishments with a valid reason.
 
 ---
 
@@ -36,11 +36,11 @@ D. The O5 Council has the authority to make or overturn any decisions if agreed 
 
 # §4. The Facility Director
 
-A. The Facility Director shall act as one of the primary representatives and coordinators of Foundation administration.
+A. The Site Director shall act as one of the primary representatives and coordinators of Foundation administration.
 
-B. The Facility Director and their term shall be regulated by The Administrator, Vice Administrator, and the O5 Council.
+B. The Site Director and their term shall be regulated by The Administrator, Evil Administrator, and the O5 Council.
 
-C. The Facility Director and their powers shall be regulated by The Administrator, Vice Administrator, and the O5 Council.
+C. The Site Director and their powers shall be regulated by The Administrator, Evil Administrator, and the O5 Council.
 
 ---
 
