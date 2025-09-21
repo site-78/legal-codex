@@ -16,7 +16,7 @@ A. All provisions contained in the Legal Codex shall be enforced by all enforcem
 
 B. Command members are obligated to ensure that all policy, procedure, protocol, or otherwise enforceable documentation complies with the provisions set forth within the Legal Codex.
 
-C. The Internal Justice Bureau and Internal Security Bureau shall have the responsibility of supervising and ensuring all bodies of the Foundation abide by and enforce the Legal Codex upon their members.
+C. The Internal Tribunal Department shall have the responsibility of supervising and ensuring all bodies of the Foundation abide by and enforce the Legal Codex upon their members.
 
 ---
 
@@ -24,10 +24,10 @@ C. The Internal Justice Bureau and Internal Security Bureau shall have the respo
 
 A. Amendments to the Legal Codex may only occur under the following circumstances:
 
- * Unilateral amendment by the Vice Administrator or any superior authority;
+ * Unilateral amendment by the Evil Administrator or any superior authority;
  * Passage of a bill within Foundation legislatures; or
- * Amendment by simple majority vote within the Internal Justice Bureau.
+ * Amendment by simple majority vote within the Internal Tribunal Department.
 
-B. The O5 Council may overturn all amendments from the Internal Justice Bureau.
+B. The O5 Council may overturn all amendments from the Interal Tribunal Department.
 
-C. Amendments shall be recorded within #codex-updates in the ACF-Gamma server.
+C. Amendments shall be recorded within #codex-updates in the Site-78 server.

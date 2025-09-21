@@ -17,11 +17,11 @@ B. No person shall be denied admission to official Foundation bodies, privileges
 
  * That opportunity is not offered to others of the same Security Level or department affiliation at the current moment.
 
-C. The Internal Security Bureau shall enforce this right. 
+C. The Internal Tribunal Department shall enforce this right. 
 
 **Right to Due Process**
 {.center}
 
 A. No person shall be denied the opportunity to appeal a punishment or punitive action to the relevant appellate bodies.
 
-B. The Internal Security Bureau shall enforce this right.
+B. The Internal Tribunal Department shall enforce this right.
