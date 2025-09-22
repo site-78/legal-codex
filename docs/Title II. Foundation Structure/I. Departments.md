@@ -42,7 +42,7 @@ B. Foundation Personnel are limited to membership of only:
 
 A. Enforcement bodies refer to Foundation bodies responsible for upholding the laws of the Foundation. This section outlines the enforcement bodies, their duties, and their powers.
 
-| <img src="/assets/EC.png" width="256"> <br> **Internal Tribunal Department** | <img src="/assets/IA.png" width="256"> <br> **Community Moderation Team** |
+| ![Logo of ITD](https://github.com/site-78/legal-codex/blob/main/docs/assets/EC.png?raw=true){ width="256" } <br> **Internal Tribunal Department** | <img src="/assets/IA.png" width="256"> <br> **Community Moderation Team** |
 |--------------------------------------|-----------------------------------|
 | A. The Internal Tribunal Department shall have the sole responsibility of enforcement of the Legal Codex. | A. The Community Moderation Team shall be solely responsible for enforcement of in-game and/or Discord rules. |
 | B. The Internal Tribunal Department may modify the Legal Codex, aside from the following parts: <br> • Title I. <br> • Title II. | |
