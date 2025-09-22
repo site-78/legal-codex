@@ -42,8 +42,8 @@ B. Foundation Personnel are limited to membership of only:
 
 A. Enforcement bodies refer to Foundation bodies responsible for upholding the laws of the Foundation. This section outlines the enforcement bodies, their duties, and their powers.
 
-| <center>**Internal Tribunal Department**</center> |  **Community Moderation Team** | **The O5 Council** |
-|--------------------------------------|-----------------------------------|---------------------------------------|
+| <center>**Internal Tribunal Department**</center> | <center>**Community Moderation Team**</center> | <center>**The O5 Council**</center> |
+|--------------------------------------------------|-------------------------------------------------|-------------------------------------|
 | A. The Internal Tribunal Department shall have the sole responsibility of enforcement of the Legal Codex. | A. The Community Moderation Team shall be solely responsible for enforcement of in-game and/or Discord rules. | A. The O5 Council shall be responsible for oversight of High Crimes and enforcement of that. |
 | B. The Internal Tribunal Department may modify the Legal Codex, aside from the following parts: <br> • Title I. <br> • Title II. | | B. The O5 Council may freely modify the Legal Codex. |
 
@@ -62,14 +62,14 @@ B. All combative entities may issue reasonable orders to other personnel, which 
 
 C. Combative entities may use force to uphold orders of their superiors and combative duties, as specified by law or internal regulations.
 
-| ![Logo of MP](https://github.com/site-78/legal-codex/blob/main/docs/assets/torch.png?raw=true){ width="256" } <br> <center><b>Military Police</b></center> | ![Logo of SD](https://github.com/site-78/legal-codex/blob/main/docs/assets/SD.png?raw=true){ width="256" } <br> <center><b>Security Department</b></center>  | ![Logo of SOU](https://github.com/site-78/legal-codex/blob/main/docs/assets/SRUnew.png?raw=true){ width="256" } <br> <center><b>Security Operations Unit</b></center> |
-|-------------------------|-----------------------------|----------------------------------|
+| <center>**Military Police**</center> | <center>**Security Department**</center>  | <center>**Security Operations Unit**</center> |
+|--------------------------------------|-------------------------------------------|-----------------------------------------------|
 | A. The Military Police has complete authority over matters involving law enforcement upon combatives. | A. Security Department command has complete authority over the Class-D Containment Zone during standard protocol; | A. The Security Operations Unit has complete jurisdiction over the Class-D Containment Zone during instability of the CDCZ. |
 | B. If no Military Police, are present authority shall cascade upon dictated by applicable law. | B. If no Security Department, are present authority shall cascade upon dictated by applicable law. | B. The Security Operations Unit shall have jurisdiction over hostage situations which involve personnel of Level 3 or lower. |
 | | | C. If no Security Operations Unit, are present authority shall cascade upon dictated by applicable law. |
 
 
-| ![Logo of Xi-13](https://github.com/site-78/legal-codex/blob/main/docs/assets/rrt.png?raw=true){ width="256" } <br> <center><b>MTF Xi-13 "Sequere Nos"</b></center> | ![Logo of Rho-36](https://github.com/site-78/legal-codex/blob/main/docs/assets/ISD.png?raw=true){ width="256" } <br> <center><b>MTF Rho-36 "Breacher's Pets"</b></center> | ![Logo of Titan-1](https://github.com/site-78/legal-codex/blob/main/docs/assets/cerb.png?raw=true){ width="256" } <br> <center><b>MTF Titan-1 "Off the Books"</b></center> |
+| <center>**MTF Xi-13 "Sequere Nos"**</center> | <center>**MTF Rho-36 "Breacher's Pets"**</center> | <center>**MTF Titan-1 "Off the Books"**</center> |
 |---------------------------------|--------------------------------------|----------------------------|
 | A. Mobile Task Force Xi-13 has complete authority over the entire facility during hostile incursions. | A. Mobile Task Force Rho-36 has complete authority over all anomaly containment zones. | A. MTF Titan-1 has complete authority over protecting personnel Security Level 3 or higher. |
 | B. If no Xi-13, are present authority shall cascade upon dictated by applicable law. | B. Rho-36 has complete authority over the handling and control of all SCPs within anomaly containment zones. | B. MTF Titan-1 has complete authority over hostage situations that involve Level 4 or higher personnel. |
