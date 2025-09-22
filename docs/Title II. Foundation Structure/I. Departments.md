@@ -42,7 +42,7 @@ B. Foundation Personnel are limited to membership of only:
 
 A. Enforcement bodies refer to Foundation bodies responsible for upholding the laws of the Foundation. This section outlines the enforcement bodies, their duties, and their powers.
 
-| ![Logo of ITD](https://github.com/site-78/legal-codex/blob/main/docs/assets/EC.png?raw=true){ width="256" } <br> <center><b>Internal Tribunal Department</b></center> | ![Logo of CMT](https://github.com/site-78/legal-codex/blob/main/docs/assets/IA.png?raw=true){ width="256" } <br> <center><b>Community Moderation Team</b></center> | ![Logo of O5](https://github.com/site-78/legal-codex/blob/main/docs/assets/SCPF_Logo.png?raw=true){ width="256" } <br> <center><b>The O5 Council</b></center> |
+| <center>**Internal Tribunal Department**</center> |  **Community Moderation Team** | **The O5 Council** |
 |--------------------------------------|-----------------------------------|---------------------------------------|
 | A. The Internal Tribunal Department shall have the sole responsibility of enforcement of the Legal Codex. | A. The Community Moderation Team shall be solely responsible for enforcement of in-game and/or Discord rules. | A. The O5 Council shall be responsible for oversight of High Crimes and enforcement of that. |
 | B. The Internal Tribunal Department may modify the Legal Codex, aside from the following parts: <br> • Title I. <br> • Title II. | | B. The O5 Council may freely modify the Legal Codex. |
