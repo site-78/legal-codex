@@ -34,7 +34,7 @@ D. The O5 Council has the authority to make or overturn any decisions if agreed 
 
 ---
 
-# §4. The Facility Director
+# §4. The Site Director
 
 A. The Site Director shall act as one of the primary representatives and coordinators of Foundation administration.
 
