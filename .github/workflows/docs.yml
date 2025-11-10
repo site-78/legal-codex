@@ -20,8 +20,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install zensical
-      - run: zensical build --clean
+      - run: curl -LsSf https://astral.sh/uv/install.sh | sh
+      
+      - run: echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+      - run: uv sync
+      - run: uvx zensical build --clean
       - uses: actions/upload-pages-artifact@v4
         with:
           path: site
