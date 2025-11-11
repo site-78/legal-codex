@@ -3,6 +3,8 @@ site_name = "Foundation Legal Codex"
 site_url = "https://site-78.github.io/legal-codex"
 copyright = "&copy; 2025 Site-78"
     [project.theme]
+    font.text = "Verdana"
+    font.code = "Courier New"
         features = [
             "navigation.instant",
             "navigation.tracking",
@@ -13,7 +15,7 @@ copyright = "&copy; 2025 Site-78"
             "navigation.top"
         ]
     [project.markdown_extensions]
-        [project.markdown_extensions.def_list]
+        [project.markdown_extensions.abbr]
         [project.markdown_extensions.attr_list]
         [project.markdown_extensions.toc]
             permalink =  true
@@ -23,7 +25,14 @@ copyright = "&copy; 2025 Site-78"
         [project.markdown_extensions.pymdownx.caret]
         [project.markdown_extensions.pymdownx.mark]
         [project.markdown_extensions.pymdownx.tilde]
+        [project.markdown_extensions.pymdownx.superfences]
+        [project.markdown_extensions.pymdownx.snippets]
+            auto_append = ["assets/glossary.md"]
         [project.markdown_extensions.pymdownx.tabbed]
             alternate_style = true
         
-        
+    [project.extra]
+        [[project.extra.social]]
+            icon = "fontawesome/brands/discord"
+            link = "https://discord.com/invite/6bnWXQNFZR"
+            name = "Our Discord server"
