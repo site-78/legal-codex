@@ -3,8 +3,8 @@ site_name = "Foundation Legal Codex"
 site_url = "https://site-78.github.io/legal-codex"
 copyright = "&copy; 2025 Site-78"
     [project.theme]
-    font.text = "Roboto"
-    font.code = "Courier New"
+    font.text = "IBM Plex Sans"
+    font.code = "IBM Plex Mono"
         features = [
             "navigation.instant",
             "navigation.tracking",
